@@ -69,4 +69,13 @@ nav ul a{
 .about-items{
     text-align: center;
     margin: 0 auto;
+    justify-content: space-between;
+    
+}
+.skills-containner{
+    display: flex;
+    text-align: center;
+}
+.skill{
+    display: flex;
 }
